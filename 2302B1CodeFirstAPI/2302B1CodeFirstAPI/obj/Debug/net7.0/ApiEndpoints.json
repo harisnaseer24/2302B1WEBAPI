@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "_2302B1CodeFirstAPI.Controllers.CricketController",
+    "Method": "Index",
+    "RelativePath": "api/Cricket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302B1CodeFirstAPI.Controllers.CricketController",
+    "Method": "CreatePlayer",
+    "RelativePath": "api/Cricket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerDTO",
+        "Type": "_2302B1CodeFirstAPI.Models.PlayerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302B1CodeFirstAPI.Controllers.CricketController",
+    "Method": "EditPlayer",
+    "RelativePath": "api/Cricket",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerDto",
+        "Type": "_2302B1CodeFirstAPI.Models.PlayerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302B1CodeFirstAPI.Controllers.CricketController",
+    "Method": "SearchPlayer",
+    "RelativePath": "api/Cricket/{query}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

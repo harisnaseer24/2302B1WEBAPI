@@ -3432,11 +3432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
+      "projectUniqueName": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302B1\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
       "projectName": "2302b1testAPI",
-      "projectPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
+      "projectPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302B1\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
       "packagesPath": "C:\\Users\\harisnaseer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302b1testAPI\\2302b1testAPI\\obj\\",
+      "outputPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302B1\\2302b1testAPI\\2302b1testAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

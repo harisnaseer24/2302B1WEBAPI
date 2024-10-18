@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v30dYBoJMkw=",
+  "dgSpecHash": "G4Jylcky2ng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
+  "projectFilePath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302B1\\2302b1testAPI\\2302b1testAPI\\2302b1testAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harisnaseer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\harisnaseer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
